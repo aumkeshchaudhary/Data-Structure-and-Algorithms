@@ -1,1 +1,1 @@
-solutions for DSA problems from LeetCode.
+Solutions for DSA problems from LeetCode.
